@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Table of Contents
 
 - [Files](#Files)
