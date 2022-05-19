@@ -39,7 +39,7 @@ Kevin Peng was hired by the ASAC (Association of Substance Abuse Clinicians) IPA
 |**education**|*obj*|Patient’s education level| 
 |**marital_status**|*obj*|Patient’s marital status|
 |**service**|*obj*|Treatment service|
-|**len_stay**|*obj*|Number of days a patient stayed at a program prior to exiting treatment|
+|**len_stay**|*obj*|Number of days a patient stayed at a program prior to exiting treatment. Calculated using the date of admission and the last date of contact|
 |**ref_source**|*obj*|Referral source for patient to receive service(s)| 
 |**treatm_ep**|*obj*|Whether or not a patient has recieved treatment in the past| 
 |**num_arrest**|*obj*|The number of times a patient was arrested 30 days prior to treatment| 
@@ -51,7 +51,7 @@ Kevin Peng was hired by the ASAC (Association of Substance Abuse Clinicians) IPA
 |**p_income**|*obj*|Patient’s primary source of Income| 
 |**substance_1**|*obj*|Patient’s primary substance of choice| 
 |**afu**|*obj*|Patient’s age of first use of substance identified|
-|**self_attend**|*obj*|Frequency of attendance for self-help 30 days prior to Admission|
+|**self_attend**|*obj*|Frequency of attendance for self-help 30 days prior to admission|
 |**reason**|*obj*|Reason for exiting service|
 
 # Evaluation
